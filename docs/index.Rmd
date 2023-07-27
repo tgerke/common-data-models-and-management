@@ -30,7 +30,7 @@ class: title-slide-custom
 
 ## Common Data Models +<br>Data Management Plans
 
-### Travis Gerke, ScD
+### Travis Gerke, ScD 
 
 <!--
 Photo by <a href="https://unsplash.com/@nananadolgo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nana Smirnova</a> on <a href="https://unsplash.com/s/photos/data?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
@@ -49,6 +49,11 @@ Photo by <a href="https://unsplash.com/@nananadolgo?utm_source=unsplash&utm_medi
 
 <img src="images/surfing.png">
 ]
+
+---
+class: center, middle, blue-bg
+
+.white[tgerke.github.io/common-data-models-and-management/]
 
 ---
 class: center, middle
